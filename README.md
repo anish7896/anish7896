@@ -98,7 +98,7 @@ I regularly practice:
 
 ## 📈 GitHub Stats
 
-![Anish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anish7896&show_icons=true&theme=dark)
+![Anish's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=anish7896&show_icons=true&theme=dark)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anish7896&theme=dark)
 
 ---
